@@ -1,5 +1,5 @@
 # Force_Structure_Planner
-Developed from the work:
+Developed from the work found at: https://www.researchgate.net/publication/387024910_Outline_of_an_Asymmetric_Defense_Strategy_Against_Peer_and_Superior_Competitors_A_Cost-Effective_Approach
 
 **McWilliams, Jarold.** *Outline of an Asymmetric Defense Strategy Against Peer and Superior Competitors: A Cost-Effective Approach.* Unpublished article (2024).
 
