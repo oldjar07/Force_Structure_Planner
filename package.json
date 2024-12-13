@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "keywords": [],
+  "homepage": "https://oldjar07.github.io/Force_Structure_Planner",
   "main": "src/index.tsx",
   "dependencies": {
     "react": "^18.0.0",
