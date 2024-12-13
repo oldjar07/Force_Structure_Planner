@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Force_Structure_Planner/static/css/main.27102628.css",
+    "main.js": "/Force_Structure_Planner/static/js/main.bef0db82.js",
+    "index.html": "/Force_Structure_Planner/index.html",
+    "main.27102628.css.map": "/Force_Structure_Planner/static/css/main.27102628.css.map",
+    "main.bef0db82.js.map": "/Force_Structure_Planner/static/js/main.bef0db82.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27102628.css",
+    "static/js/main.bef0db82.js"
+  ]
+}
